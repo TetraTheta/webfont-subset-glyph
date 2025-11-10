@@ -26,7 +26,7 @@
   * 숫자 및 알파벳 62자
   * 특수문자 및 국제 음성 기호, 다이어크리틱 801자
   * 노민지, 윤민구의 [「KS 코드 완성형 한글의 추가 글자 제안」](http://koreantypography.org/ko/paper/paper_view.asp?paper_seq=79)에 따른 한글 224자
-  * [「국어생활」 1989년 가을호](https://www.korean.go.kr/nkview/nklife/1989_3/18_5.html)에서 지적한 빠진 한글 216자
+  * [「국어생활」 1989년 가을호](https://www.korean.go.kr/nkview/nklife/1989_3/18_5.html)에서 지적한 바에 따른 한글 216자
   * Adobe-KR-9에 따른 한글 169자
   * 그 외 조사 후 추가한 한글 23자
 
