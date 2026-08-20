@@ -49,5 +49,8 @@
 ---
 ## 웹폰트 서브셋 목록
 본 프로젝트를 이용해 만든 웹폰트 서브셋 목록입니다.
-* [리디바탕](https://github.com/TetraTheta/RIDIBatang-subset)
-* [Noto Sans KR](https://github.com/TetraTheta/NotoSansKR-subset)
+
+* [웹폰트 모음](https://github.com/TetraTheta/webfont)
+  * 구름 산스 코드
+  * 리디바탕
+  * Noto Sans KR
